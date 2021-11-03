@@ -297,7 +297,7 @@ font-size: 21px;
   display: flex;
   flex-direction: row;
   justify-content: space-around;
-    flex-wrap:wrap;
+  flex-wrap:wrap;
 
 }
 #search-buttons button{
@@ -308,6 +308,8 @@ font-size: 21px;
   cursor: pointer;
   color: white;
   width:20%;
+  text-align:center;
+  
 }#search-buttons button:hover,
 #search-buttons button:focus{
   color: black;
