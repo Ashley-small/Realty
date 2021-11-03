@@ -144,9 +144,6 @@ padding: 2em;
   margin: 1.5em;
 }
 
-
-
-
 .about-btn, .service-btn{
 margin: 0 auto;
 padding: 15px 25px;
@@ -306,6 +303,7 @@ font-size: 21px;
   font-weight: bold;
   cursor: pointer;
   color: white;
+  width:20%;
 }#search-buttons button:hover,
 #search-buttons button:focus{
   color: black;
